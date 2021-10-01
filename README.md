@@ -1,7 +1,15 @@
-### 👋 Hi, my name is Vitya! 
+# 👋 Hi, my name is Vitya! 
 
 ## I'm a beginner Front-end developer from Nizhniy Novgorod.
 
+### Languages and Technologies
+![flutter](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![flutter](https://img.shields.io/badge/ReactJS-090909?style=for-the-badge&logo=React)
+![flutter](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
+![flutter](https://img.shields.io/badge/Rest_API-090909?style=for-the-badge&logo)
+![flutter](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5)
+![flutter](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
+![flutter](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
