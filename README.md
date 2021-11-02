@@ -1,7 +1,8 @@
 # 👋 Hi, my name is Vitya!   
 
 ## I'm a beginner *Front-end developer* from Nizhniy Novgorod.
-
+[![Created Badge](https://badges.pufler.dev/created/capozz03/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/capozz03/git-badges)](https://badges.pufler.dev)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/ReactJS-090909?style=for-the-badge&logo=React)
