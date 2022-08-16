@@ -4,7 +4,7 @@
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/ReactJS-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
 ![HTML5](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5)
