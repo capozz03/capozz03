@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Vitya!   
 
-## I'm a beginner *Front-end developer* from Nizhniy Novgorod.
+## I'm a *Front-end developer* from Nizhniy Novgorod.
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
